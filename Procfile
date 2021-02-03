@@ -1,0 +1,1 @@
+web: gunicorn beauty_ecommerce.wsgi
